@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I’m Defayn!</h1>  
-<p align="center">💻 Passionate about programming and technology, currently a 3rd-year student specializing in PVTAS.</p>  
+
 
 ---
 
